@@ -1,0 +1,8 @@
+title: Tobias V. Langhoff
+description: This is an adventure
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
